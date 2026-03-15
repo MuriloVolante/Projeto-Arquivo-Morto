@@ -32,7 +32,6 @@ em tempo real.
 - Visibilidade total do progresso do projeto
 - Gestão da equipe baseada em dados reais
 - Projeto elogiado pela liderança e reconhecido internamente
-![Dashboard](dashboard.jpeg)
 
 ## 🛠️ Stack
 
